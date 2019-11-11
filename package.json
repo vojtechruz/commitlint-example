@@ -1,0 +1,23 @@
+{
+  "name": "commitlint-example",
+  "version": "1.0.0",
+  "description": "An example project for showing Commitlint in action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vojtechruz/commitlint-example.git"
+  },
+  "keywords": [
+    "Git",
+    "Commitlint"
+  ],
+  "author": "Vojtech Ruzicka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vojtechruz/commitlint-example/issues"
+  },
+  "homepage": "https://github.com/vojtechruz/commitlint-example#readme"
+}
