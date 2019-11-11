@@ -2,7 +2,6 @@
   "name": "commitlint-example",
   "version": "1.0.0",
   "description": "An example project for showing Commitlint in action",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/vojtechruz/commitlint-example/issues"
   },
-  "homepage": "https://github.com/vojtechruz/commitlint-example#readme"
+  "homepage": "https://github.com/vojtechruz/commitlint-example#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "husky": "^3.0.9"
+  }
 }
