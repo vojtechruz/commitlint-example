@@ -1,2 +1,2 @@
 # commitlint-example
-An example repository showing Commitlint in action
+An example repository showing Commitlint in action.
